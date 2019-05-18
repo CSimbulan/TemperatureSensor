@@ -1,0 +1,7 @@
+LOG OF CHANGES TO sensor011d arduino code
+
+2015/9/7 
+eliminated header printing in the SD card file
+eliminated the csv file since it's never used
+changed logging period from 60s to 30s
+tried to display SD card status on OLED display
